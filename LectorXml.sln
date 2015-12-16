@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LectorXml", "LectorXml\LectorXml.csproj", "{ABA9A478-8A12-4FBB-9355-6484F69BF006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA9A478-8A12-4FBB-9355-6484F69BF006}.Debug|x86.ActiveCfg = Debug|x86
+		{ABA9A478-8A12-4FBB-9355-6484F69BF006}.Debug|x86.Build.0 = Debug|x86
+		{ABA9A478-8A12-4FBB-9355-6484F69BF006}.Release|x86.ActiveCfg = Release|x86
+		{ABA9A478-8A12-4FBB-9355-6484F69BF006}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LectorXml\LectorXml.csproj
+	EndGlobalSection
+EndGlobal
